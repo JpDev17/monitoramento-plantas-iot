@@ -30,6 +30,10 @@ Os dados coletados pelos sensores são enviados para uma plataforma MQTT, permit
 5. Quando a umidade do solo fica abaixo do limite definido, o relé aciona a bomba.
 6. Após atingir a umidade adequada, a bomba é desligada.
 
+## Simulação Wokwi
+
+https://wokwi.com/projects/465501896017222657
+
 ## Autor
 
 João Paulo Rodrigues Alves
